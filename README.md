@@ -7,5 +7,5 @@ When Laravel Fails This Script Will Make It Right
 Add this script to your root Laravel directory and run the following command:
 
 <pre>
-php laravel_fix.php
+php laravel-fix.php
 </pre>
