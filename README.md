@@ -11,9 +11,10 @@ php laravel-fix.php
 </pre>
 
 ## What it does?
-1. Removes vendor directry
-2. Composer updates all packages and creates vendor directory
-3. Change overall ownership to the web user www-date
+
+1. Removes the vendor directory
+2. Composer updates all packages and creates the vendor directory
+3. Changes the overall ownership to the web user www-date
 4. Fixes access for storage directory
 4. Fixes access for boot directory
 4. Fixes access for public directory
