@@ -10,6 +10,8 @@ Add this script to your root Laravel directory and run the following command:
 php laravel-fix.php
 </pre>
 
+Note. This script is for the www-data:www-data user (the standard Apache user:group). If your user:group is defferent you may want to change it
+
 ## What it does?
 
 1. Removes the vendor directory
